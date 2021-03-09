@@ -1,0 +1,15 @@
+.build
+.mbed
+.vs
+.mbedignore
+projectfiles
+exemple/
+lib/.vscode/
+*.py*
+mbed-os
+BUILD
+**/mise-au-point.md
+*.ilk
+*.obj
+*.pdb
+*.exe
