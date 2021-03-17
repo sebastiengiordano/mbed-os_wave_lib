@@ -1,10 +1,12 @@
 .build
 .mbed
-.vs
+.vs*
 .mbedignore
 projectfiles
 exemple/
 lib/.vscode/
+test_standard_lib/
+dev_test/
 *.py*
 mbed-os
 BUILD
